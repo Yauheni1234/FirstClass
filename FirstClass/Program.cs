@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello Евгений");
 string user = Console.ReadLine();
 Console.WriteLine(user);
+123456
